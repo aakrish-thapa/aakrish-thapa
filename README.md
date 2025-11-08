@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 🌐 Web Developer in Progress | Crafting Interactive Digital Experiences
+  ### 🌐 Web Developer | Crafting Interactive Digital Experiences
   
   <p>
     <a href="https://github.com/aakrish-thapa">
